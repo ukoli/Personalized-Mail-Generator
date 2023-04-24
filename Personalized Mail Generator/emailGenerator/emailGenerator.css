@@ -1,0 +1,23 @@
+.search_item_btn{
+    margin-top: 24px;
+}
+
+.search_item{
+    margin-right: 10px;
+}
+
+.form {
+    background: white;
+}
+
+.popover {
+    left: -145px;
+    bottom: 52px;
+}
+
+.slds-spinner_container{
+    background-color: rgb(255,255,255,0.4);
+    min-width: min-content;
+    position: absolute; 
+    z-index: 0;
+}
